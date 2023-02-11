@@ -38,7 +38,7 @@ console.log(arr);
 function concatenateArray() {
    let newstudents = [
     {id:5, name:"shubhu", age:"25",marks:60},
-    {id:6, name:"saurabh", age:"23",marks:70},
+    {id:6, name:"saurabh", age:"28",marks:70},
     {id:7, name:"sumit", age:"26",marks:80}
   ];
   let concatedArray = arr.concat(newstudents);
