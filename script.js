@@ -31,6 +31,8 @@ function addData() {
 
 function removeFailedStudent() {
   //Write your code here, just console.log
+  arr = arr.filter(ele => ele.marks >=50);
+console.log(arr);
 }
 
 function concatenateArray() {
